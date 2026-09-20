@@ -130,24 +130,6 @@ The game uses custom console ASCII artwork rather than a graphical interface.
 
 The aim is to keep the game lightweight, simple and reminiscent of classic command-line games.
 
-               ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-            ■                        ■   ■
-          ■       ☺         ☺      ■      ■
-        ■                        ■         ■
-      ■      ☺         ☺       ■            ■
-    ■                        ■               ■
-  ■                         ■                 ■
- ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■                   ■
- ■                          ■         ☺         ■
-  ■       ☺         ☺        ■                   ■
-   ■                          ■                   ■
-    ■                          ■                 ■
-     ■            ☺             ■              ■
-      ■                          ■           ■
-       ■                          ■        ■
-        ■        ☺         ☺       ■     ■
-         ■                          ■  ■
- by 6-0    ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 ⚙️ Requirements
 Standalone .exe
